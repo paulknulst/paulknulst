@@ -5,7 +5,7 @@
 🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://medium.com/@paulknulst">Medium</a>
 
 
-## 📝 Top Blog Posts
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Write Better Git Commit Messages To Increase Your Productivity](https://betterprogramming.pub/write-better-git-commit-messages-to-increase-your-productivity-89fa773e8375?source=rss-1282c85b5cbc------2)
 - [How To Reduce Size Of Docker Data Volume In Docker Desktop For Windows](https://levelup.gitconnected.com/how-to-reduce-size-of-docker-data-volume-in-docker-desktop-for-windows-c9545984bae4?source=rss-1282c85b5cbc------2)
