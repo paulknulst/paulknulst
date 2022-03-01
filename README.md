@@ -7,11 +7,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7+2 Websites To Get Free Illustrations Every Web Developer Should Know](https://javascript.plainenglish.io/7-2-websites-to-get-free-illustrations-every-web-developer-should-know-6700570fb2ec?source=rss-1282c85b5cbc------2)
 - [Learn JavaScript while playing Games — Gamify your learning](https://javascript.plainenglish.io/learn-javascript-while-playing-games-gamify-your-learning-9f41d4d3dad9?source=rss-1282c85b5cbc------2)
 - [Write Better Git Commit Messages To Increase Your Productivity](https://betterprogramming.pub/write-better-git-commit-messages-to-increase-your-productivity-89fa773e8375?source=rss-1282c85b5cbc------2)
 - [How To Reduce Size Of Docker Data Volume In Docker Desktop For Windows](https://levelup.gitconnected.com/how-to-reduce-size-of-docker-data-volume-in-docker-desktop-for-windows-c9545984bae4?source=rss-1282c85b5cbc------2)
 - [9 Simple Life-Hacks To Improve Your Productivity](https://betterhumans.pub/9-simple-life-hacks-to-improve-your-productivity-242485749077?source=rss-1282c85b5cbc------2)
-- [Harden Your Website With Traefik And Security Headers](https://levelup.gitconnected.com/harden-your-website-with-traefik-and-security-headers-a595844c4f1b?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
