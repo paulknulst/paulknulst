@@ -7,11 +7,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Self Host A Personal Ghost Blogging Platform On Docker Swarm](https://levelup.gitconnected.com/how-to-self-host-a-personal-ghost-blogging-platform-on-docker-swarm-3548a272c346?source=rss-1282c85b5cbc------2)
 - [How To Fix ‘With 554 No SMTP’ When your Mails Get Reject By GMX or other Mail-Provider](https://medium.com/geekculture/how-to-fix-with-554-no-smtp-when-your-mails-get-reject-by-gmx-or-other-mail-provider-b64d86ca7667?source=rss-1282c85b5cbc------2)
 - [How To Set Up a Mailserver Within a Docker Swarm](https://betterprogramming.pub/how-to-set-up-a-mailserver-within-a-docker-swarm-e6e9192200c4?source=rss-1282c85b5cbc------2)
 - [11 Stages To Become A JavaScript Full-Stack Engineer](https://javascript.plainenglish.io/11-stages-to-become-a-javascript-full-stack-engineer-70d8a8365ee9?source=rss-1282c85b5cbc------2)
 - [How To Access A Docker Container — Secure Shell vs Docker Attach](https://faun.pub/how-to-access-a-docker-container-secure-shell-vs-docker-attach-7d1aa944a2c6?source=rss-1282c85b5cbc------2)
-- [How To Install Docker Without Docker Desktop On Windows](https://betterprogramming.pub/how-to-install-docker-without-docker-desktop-on-windows-a2bbb65638a1?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
