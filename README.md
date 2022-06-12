@@ -7,11 +7,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction To Software Design Patterns](https://levelup.gitconnected.com/an-introduction-to-software-design-patterns-fa2985efd32e?source=rss-1282c85b5cbc------2)
 - [Patterns And Best Practices In JavaScript: Dealing With Callback Functions](https://javascript.plainenglish.io/patterns-and-best-practices-in-javascript-dealing-with-callback-functions-dbf5d7303261?source=rss-1282c85b5cbc------2)
 - [What Is Full-Stack Project Management?](https://levelup.gitconnected.com/what-is-full-stack-project-management-fb9744e6ff90?source=rss-1282c85b5cbc------2)
 - [How To Self Host A Personal Ghost Blogging Platform On Docker Swarm](https://levelup.gitconnected.com/how-to-self-host-a-personal-ghost-blogging-platform-on-docker-swarm-3548a272c346?source=rss-1282c85b5cbc------2)
 - [How To Fix ‘With 554 No SMTP’ When your Mails Get Reject By GMX or other Mail-Provider](https://medium.com/geekculture/how-to-fix-with-554-no-smtp-when-your-mails-get-reject-by-gmx-or-other-mail-provider-b64d86ca7667?source=rss-1282c85b5cbc------2)
-- [How To Set Up a Mailserver Within a Docker Swarm](https://betterprogramming.pub/how-to-set-up-a-mailserver-within-a-docker-swarm-e6e9192200c4?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
