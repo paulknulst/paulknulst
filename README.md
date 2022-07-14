@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://medium.com/@paulknulst">Medium</a>
+🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://www.knulst.de">my Personal Blog</a>, on <a href="https://medium.com/@paulknulst">Medium</a>, and on <a href="https://dev.to/paulknulst">Dev.to</a>
 
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
 - [Increase Your Productivity With The Ivy-Lee Method](https://betterprogramming.pub/increase-your-productivity-with-the-ivy-lee-method-18eac049983?source=rss-1282c85b5cbc------2)
 - [Join This New Writer-Friendly Publication For Your How-Tos](https://medium.com/the-shortform/join-this-new-writer-friendly-publication-for-your-how-tos-f7586c498505?source=rss-1282c85b5cbc------2)
