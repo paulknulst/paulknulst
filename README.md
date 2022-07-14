@@ -7,11 +7,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [How to Remove Local Git Branches by Creating Git Aliases](https://betterprogramming.pub/how-to-remove-local-git-branches-by-creating-git-aliases-adbf38c572e8?source=rss-1282c85b5cbc------2)
 - [Increase Your Productivity With The Ivy-Lee Method](https://betterprogramming.pub/increase-your-productivity-with-the-ivy-lee-method-18eac049983?source=rss-1282c85b5cbc------2)
 - [Join This New Writer-Friendly Publication For Your How-Tos](https://medium.com/the-shortform/join-this-new-writer-friendly-publication-for-your-how-tos-f7586c498505?source=rss-1282c85b5cbc------2)
 - [How To Add Comments To Your Blog](https://levelup.gitconnected.com/how-to-add-comments-to-your-blog-bc91a324d245?source=rss-1282c85b5cbc------2)
 - [How To Host Your Website For Free](https://medium.com/geekculture/how-to-host-your-website-for-free-616cd4ce6e4a?source=rss-1282c85b5cbc------2)
-- [How to Access a Docker Container — Secure Shell vs Docker Attach](https://betterprogramming.pub/how-to-access-a-docker-container-secure-shell-vs-docker-attach-1270d0475bb1?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
