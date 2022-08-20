@@ -4,6 +4,9 @@
 
 🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://www.knulst.de">my Personal Blog</a>, on <a href="https://medium.com/@paulknulst">Medium</a>, and on <a href="https://dev.to/paulknulst">Dev.to</a>
 
+## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
+<!-- KNULST-POST-LIST:START -->
+<!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
