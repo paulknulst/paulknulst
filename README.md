@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
 <!-- KNULST-POST-LIST:START -->
+- [Use Varnish HTTP Cache And Docker To Boost Website Speed](https://www.knulst.de/how-to-use-varnish-as-http-cache-for-your-blog/)
 - [Manage Time More Efficiently With The Pomodoro Technique](https://www.knulst.de/manage-time-more-efficiently-with-the-pomodoro-technique/)
 - [My 10 Simple Tricks To Boost My Daily Productivity](https://www.knulst.de/my-10-simple-tricks-to-boost-my-productivity/)
 - [How To Remove Local Git Branches By Creating Git Aliases](https://www.knulst.de/how-to-remove-local-git-branches-by-creating-git-aliases/)
 - [How To Add Comments To Your Blog](https://www.knulst.de/how-to-add-comments-to-your-blog/)
-- [Increase Your Productivity With The Ivy-Lee Method](https://www.knulst.de/increase-your-productivity-with-the-ivy-lee-method/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
