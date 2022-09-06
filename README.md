@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple URL Shortener API Using Nestjs, MongoDB, and Docker](https://betterprogramming.pub/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-a826e461145f?source=rss-1282c85b5cbc------2)
 - [My 10 Simple Tricks To Boost My Daily Productivity](https://betterhumans.pub/my-10-simple-tricks-to-boost-my-daily-productivity-9b1c5d86551e?source=rss-1282c85b5cbc------2)
 - [My Profile Page! Let’s Connect…](https://paulknulst.medium.com/my-profile-page-lets-connect-fbcee647c0ff?source=rss-1282c85b5cbc------2)
 - [How to Remove Local Git Branches by Creating Git Aliases](https://betterprogramming.pub/how-to-remove-local-git-branches-by-creating-git-aliases-adbf38c572e8?source=rss-1282c85b5cbc------2)
 - [Increase Your Productivity With The Ivy-Lee Method](https://betterprogramming.pub/increase-your-productivity-with-the-ivy-lee-method-18eac049983?source=rss-1282c85b5cbc------2)
-- [Join This New Writer-Friendly Publication For Your How-Tos](https://medium.com/the-shortform/join-this-new-writer-friendly-publication-for-your-how-tos-f7586c498505?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
