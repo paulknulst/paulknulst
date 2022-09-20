@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
 <!-- KNULST-POST-LIST:START -->
+- [7 Tricks To Improve Home Office Productivity](https://www.knulst.de/7-tricks-to-improve-home-office-productivity/)
+- [How To Crop and Trim Videos In Kotlin for Android](https://www.knulst.de/how-to-crop-and-trim-videos-in-kotlin-for-android/)
 - [Improve Your Productivity With 9 Fantastic Life-Hacks](https://www.knulst.de/improve-your-productivity-with-9-fantastic-life-hacks/)
 - [Use NestJS, MongoDB and Docker to Create an URL Shortener](https://www.knulst.de/use-nestjs-mongodb-and-docker-to-create-an-url-shortener/)
 - [Use Varnish HTTP Cache And Docker To Boost Website Speed](https://www.knulst.de/how-to-use-varnish-as-http-cache-for-your-blog/)
-- [Manage Time More Efficiently With The Pomodoro Technique](https://www.knulst.de/manage-time-more-efficiently-with-the-pomodoro-technique/)
-- [My 10 Simple Tricks To Boost My Daily Productivity](https://www.knulst.de/my-10-simple-tricks-to-boost-my-productivity/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
