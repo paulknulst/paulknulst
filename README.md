@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Free Figma Alternative Penpot With Docker](https://betterprogramming.pub/deploy-free-figma-alternative-penpot-with-docker-9caf94c11030?source=rss-1282c85b5cbc------2)
 - [How To Crop and Trim Videos In Kotlin for Android](https://proandroiddev.com/how-to-crop-and-trim-videos-in-kotlin-for-android-bf5328e9b8b3?source=rss-1282c85b5cbc------2)
 - [7 Tricks To Improve Home Office Productivity](https://byrslf.co/7-tricks-to-improve-home-office-productivity-ec7464b57d76?source=rss-1282c85b5cbc------2)
 - [Use Varnish HTTP Cache and Docker To Boost Website Speed](https://betterprogramming.pub/use-varnish-http-cache-and-docker-to-boost-website-speed-4902a3377d1a?source=rss-1282c85b5cbc------2)
 - [Build a Simple URL Shortener API Using Nestjs, MongoDB, and Docker](https://betterprogramming.pub/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-a826e461145f?source=rss-1282c85b5cbc------2)
-- [My 10 Simple Tricks To Boost My Daily Productivity](https://betterhumans.pub/my-10-simple-tricks-to-boost-my-daily-productivity-9b1c5d86551e?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
