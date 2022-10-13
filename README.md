@@ -6,7 +6,7 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
 <!-- KNULST-POST-LIST:START -->
-- [How to Build a Video Player in Vanilla Javascript And HTML](https://www.knulst.de/how-to-build-a-video-player-in-javascript/)
+- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.knulst.de/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)
 - [Optimize Android App Development With Docker, SonarQube, Detekt, and MobSF](https://www.knulst.de/optimize-android-app-development-with-docker-sonarqube-detekt-and-mobsf/)
 - [Deploy Free Figma Alternative Penpot With Docker](https://www.knulst.de/deploy-free-figma-alternative-penpot-with-docker/)
 - [How To Install Docker Without Docker Desktop On Windows](https://www.knulst.de/how-to-install-docker-without-docker-desktop-on-windows/)
