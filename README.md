@@ -7,10 +7,10 @@
 ## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
 <!-- KNULST-POST-LIST:START -->
 - [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://www.knulst.de/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule/)
+- [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://www.knulst.de/javascript-runtime-node-js-19-keeps-the-http-connection-alive/)
 - [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.knulst.de/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)
 - [Optimize Android App Development With Docker, SonarQube, Detekt, and MobSF](https://www.knulst.de/optimize-android-app-development-with-docker-sonarqube-detekt-and-mobsf/)
 - [Deploy Free Figma Alternative Penpot With Docker](https://www.knulst.de/deploy-free-figma-alternative-penpot-with-docker/)
-- [How To Install Docker Without Docker Desktop On Windows](https://www.knulst.de/how-to-install-docker-without-docker-desktop-on-windows/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
