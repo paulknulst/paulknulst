@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://betterhumans.pub/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule-26f08a6d7b4e?source=rss-1282c85b5cbc------2)
 - [JavaScript Runtime Node.js 19 Keeps the HTTP Connection Alive and Replaces Nodemon!](https://javascript.plainenglish.io/javascript-runtime-node-js-19-keeps-the-http-connection-alive-and-replaces-nodemon-6925ce113271?source=rss-1282c85b5cbc------2)
 - [How To Build a Video Player in Vanilla JavaScript and HTML5](https://betterprogramming.pub/how-to-build-a-video-player-in-vanilla-javascript-and-html5-61ecc1552b8e?source=rss-1282c85b5cbc------2)
 - [Optimize Android App Development With Docker, SonarQube, Detekt, and MobSF](https://betterprogramming.pub/optimize-android-app-development-with-docker-sonarqube-detekt-and-mobsf-ae7e93ccf879?source=rss-1282c85b5cbc------2)
 - [Deploy Free Figma Alternative Penpot With Docker](https://betterprogramming.pub/deploy-free-figma-alternative-penpot-with-docker-9caf94c11030?source=rss-1282c85b5cbc------2)
-- [How To Crop and Trim Videos In Kotlin for Android](https://proandroiddev.com/how-to-crop-and-trim-videos-in-kotlin-for-android-bf5328e9b8b3?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
