@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://www.knulst.de">my Personal Blog</a>, on <a href="https://medium.com/@paulknulst">Medium</a>, and on <a href="https://dev.to/paulknulst">Dev.to</a>
+🎓 I am Paul Knulst, a **Senior Software Engineer/Tech Writer** (specializing in **Backend Developer, DevOps**) working as Team Lead for Realcore and regularly writing articles on <a href="https://www.paulsblog.dev">my Personal Blog</a>, on <a href="https://medium.com/@paulknulst">Medium</a>, and on <a href="https://dev.to/paulknulst">Dev.to</a>
 
-## 📝 Latest Blog Posts on pauls dev blog - www.knulst.de
+## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
-- [Write Better Git Commit Messages To Increase Your Productivity](https://www.knulst.de/write-better-git-commit-messages-to-increase-your-productivity/)
-- [Use Docker, Uptime Kuma, and Traefik To Monitor Your Website](https://www.knulst.de/use-docker-uptime-kuma-and-traefik-to-monitor-your-website/)
-- [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://www.knulst.de/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule/)
-- [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://www.knulst.de/javascript-runtime-node-js-19-keeps-the-http-connection-alive/)
-- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.knulst.de/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)
+- [Write Better Git Commit Messages To Increase Your Productivity](https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/)
+- [Use Docker, Uptime Kuma, and Traefik To Monitor Your Website](https://www.paulsblog.dev/use-docker-uptime-kuma-and-traefik-to-monitor-your-website/)
+- [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://www.paulsblog.dev/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule/)
+- [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://www.paulsblog.dev/javascript-runtime-node-js-19-keeps-the-http-connection-alive/)
+- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.paulsblog.dev/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
