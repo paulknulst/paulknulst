@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [4 Code Smells That Are Probably Already in Your Code](https://www.paulsblog.dev/4-code-smells-that-are-probably-already-in-your-code/)
 - [Write Better Git Commit Messages To Increase Your Productivity](https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/)
 - [Use Docker, Uptime Kuma, and Traefik To Monitor Your Website](https://www.paulsblog.dev/use-docker-uptime-kuma-and-traefik-to-monitor-your-website/)
 - [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://www.paulsblog.dev/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule/)
 - [JavaScript runtime Node.js 19 keeps the HTTP connection alive and replaces Nodemon!](https://www.paulsblog.dev/javascript-runtime-node-js-19-keeps-the-http-connection-alive/)
-- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.paulsblog.dev/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
