@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [14 Important JavaScript Functions Every Web Developer Should Know](https://javascript.plainenglish.io/14-important-javascript-functions-every-web-developer-should-know-e34169ae91c8?source=rss-1282c85b5cbc------2)
 - [12 Important JavaScript Snippets Every Web Developer Must Know](https://javascript.plainenglish.io/12-important-javascript-snippets-every-web-developer-must-know-aeab46aa6f97?source=rss-1282c85b5cbc------2)
 - [4 Code Smells That Are Probably Already in Your Code](https://towardsdatascience.com/4-code-smells-that-are-probably-already-in-your-code-ae75dea3fe32?source=rss-1282c85b5cbc------2)
 - [Use Docker, Uptime Kuma, and Traefik To Monitor Your Website](https://levelup.gitconnected.com/use-docker-uptime-kuma-and-traefik-to-monitor-your-website-593373f9e0c2?source=rss-1282c85b5cbc------2)
 - [Stop Procrastinating And Increase Productivity by Using the “2-Minute Rule”](https://betterhumans.pub/stop-procrastinating-and-increase-productivity-by-using-the-2-minute-rule-26f08a6d7b4e?source=rss-1282c85b5cbc------2)
-- [JavaScript Runtime Node.js 19 Keeps the HTTP Connection Alive and Replaces Nodemon!](https://javascript.plainenglish.io/javascript-runtime-node-js-19-keeps-the-http-connection-alive-and-replaces-nodemon-6925ce113271?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
