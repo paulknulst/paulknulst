@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Improve Your Workflow With ChatGPT](https://www.paulsblog.dev/improve-your-workflow-with-chatgpt/)
 - [How To Install Traefik Ingress Controller In Kubernetes](https://www.paulsblog.dev/how-to-install-traefik-ingress-controller-in-kubernetes/)
 - [Why SOLID Design Matters: Avoid Code Smells and Write Maintainable Code](https://www.paulsblog.dev/why-solid-design-matters-avoid-code-smells-and-write-maintainable-code/)
 - [How To Manage Docker Logfiles with Logrotate](https://www.paulsblog.dev/how-to-manage-docker-logfiles-with-logrotate/)
 - [Phenomenal FREE Platforms To Learn Coding](https://www.paulsblog.dev/phenomenal-free-platforms-to-learn-coding/)
-- [4 Code Smells That Are Probably Already in Your Code](https://www.paulsblog.dev/4-code-smells-that-are-probably-already-in-your-code/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
