@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
 - [How To Install A Private Docker Container Registry In Kubernetes](https://www.paulsblog.dev/how-to-install-a-private-docker-container-registry-in-kubernetes/)
 - [My 7 Simple Tricks To Improve My Mood](https://www.paulsblog.dev/my-7-simple-tricks-to-improve-my-mood/)
 - [Improve Your Workflow With ChatGPT](https://www.paulsblog.dev/improve-your-workflow-with-chatgpt/)
 - [How To Install Traefik Ingress Controller In Kubernetes](https://www.paulsblog.dev/how-to-install-traefik-ingress-controller-in-kubernetes/)
-- [Why SOLID Design Matters: Avoid Code Smells and Write Maintainable Code](https://www.paulsblog.dev/why-solid-design-matters-avoid-code-smells-and-write-maintainable-code/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
