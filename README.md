@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Advanced JavaScript Functions to Improve Code Quality](https://towardsdatascience.com/advanced-javascript-functions-to-improve-code-quality-2663781ea382?source=rss-1282c85b5cbc------2)
 - [Ensure Android Code Quality: Use ktlint in your Kotlin Projects](https://proandroiddev.com/ensure-android-code-quality-use-ktlint-in-your-kotlin-projects-89cf170b0072?source=rss-1282c85b5cbc------2)
 - [How To Install A Private Docker Container Registry In Kubernetes](https://towardsdatascience.com/how-to-install-a-private-docker-container-registry-in-kubernetes-eadcfd6e0f27?source=rss-1282c85b5cbc------2)
 - [My 7 Simple Tricks To Improve My Mood](https://byrslf.co/my-7-simple-tricks-to-improve-my-mood-c125b637490f?source=rss-1282c85b5cbc------2)
 - [12 Important JavaScript Functions To Improve Code as a Web Developer](https://javascript.plainenglish.io/12-important-javascript-functions-to-improve-code-as-a-web-developer-f40503a6de0b?source=rss-1282c85b5cbc------2)
-- [Why SOLID Design Matters: Avoid Code Smells and Write Maintainable Code](https://towardsdatascience.com/why-solid-design-matters-avoid-code-smells-and-write-maintainable-code-553b3c6c0ca8?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
