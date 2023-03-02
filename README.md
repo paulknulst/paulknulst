@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Create Your Portfolio Using Next.js, Tailwind CSS, Stripe, and PayPal](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)
 - [How To Dockerize Your Time-Tracking with Kimai](https://www.paulsblog.dev/how-to-dockerize-your-time-tracking-with-kimai/)
 - [Ensure Android Code Quality: Use ktlint in your Kotlin Projects](https://www.paulsblog.dev/ensure-android-code-quality-use-ktlint-in-your-kotlin-project/)
 - [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
 - [How To Install A Private Docker Container Registry In Kubernetes](https://www.paulsblog.dev/how-to-install-a-private-docker-container-registry-in-kubernetes/)
-- [My 7 Simple Tricks To Improve My Mood](https://www.paulsblog.dev/my-7-simple-tricks-to-improve-my-mood/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
