@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Deploy Self-Hosted Twitter-Like Notes App With Docker](https://www.paulsblog.dev/deploy-self-hosted-twitter-like-notes-app-with-docker/)
+- [Deploy Self-Hosted IT-Tools With Docker To Optimize Workflow](https://www.paulsblog.dev/deploy-self-hosted-it-tools-with-docker-to-optimize-workflow/)
+- [How To Deploy GitLab With Docker In 5 Seconds Or Less](https://www.paulsblog.dev/how-to-deploy-gitlab-with-docker-in-5-seconds-or-less/)
 - [Advanced JavaScript Concepts To Write High-Quality Code That Scales](https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/)
 - [Streamline Your Workflow With Docker to Boost Productivity](https://www.paulsblog.dev/streamline-your-workflow-with-docker-to-boost-productivity/)
-- [Create Your Portfolio Using Next.js, Tailwind CSS, Stripe, and PayPal](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)
-- [How To Dockerize Your Time-Tracking with Kimai](https://www.paulsblog.dev/how-to-dockerize-your-time-tracking-with-kimai/)
-- [Ensure Android Code Quality: Use ktlint in your Kotlin Projects](https://www.paulsblog.dev/ensure-android-code-quality-use-ktlint-in-your-kotlin-project/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
