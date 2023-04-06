@@ -6,7 +6,7 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
-- [Self-Hosted Highlights #1](https://www.paulsblog.dev/404/)
+- [Self-Hosted Highlights #1](https://www.paulsblog.dev/self-hosted-highlights-1/)
 - [Deploy Self-Hosted Twitter-Like Notes App With Docker](https://www.paulsblog.dev/deploy-self-hosted-twitter-like-notes-app-with-docker/)
 - [Deploy Self-Hosted IT-Tools With Docker To Optimize Workflow](https://www.paulsblog.dev/deploy-self-hosted-it-tools-with-docker-to-optimize-workflow/)
 - [How To Deploy GitLab With Docker In 5 Seconds Or Less](https://www.paulsblog.dev/how-to-deploy-gitlab-with-docker-in-5-seconds-or-less/)
