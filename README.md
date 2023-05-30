@@ -8,7 +8,7 @@
 <!-- KNULST-POST-LIST:START -->
 - [Learn To Say No Effectively - Set Boundaries Without Hurting People](https://www.paulsblog.dev/learn-to-say-no-effectively/)
 - [Eat The Frog: What Sounds Gross Is My Fastest Way To Be More Productive](https://www.paulsblog.dev/eat-the-frog-productivity-method/)
-- [Manipulate Strings With Regular Expression in JavaScript](https://www.paulsblog.dev/manipulate-strings-with-regular-expression-in-javascript/)
+- [Manipulate Strings With Regular Expressions In JavaScript](https://www.paulsblog.dev/manipulate-strings-with-regular-expression-in-javascript/)
 - [Self-Hosted Highlights #1](https://www.paulsblog.dev/self-hosted-highlights-1/)
 - [Deploy Self-Hosted Twitter-Like Notes App With Docker](https://www.paulsblog.dev/deploy-self-hosted-twitter-like-notes-app-with-docker/)
 <!-- KNULST-POST-LIST:END -->
