@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Manipulate Strings With Regular Expressions In JavaScript](https://javascript.plainenglish.io/manipulate-strings-with-regular-expressions-in-javascript-5a26c355add?source=rss-1282c85b5cbc------2)
 - [Deploy Self-Hosted Twitter-Like Notes App With Docker](https://levelup.gitconnected.com/deploy-self-hosted-twitter-like-notes-app-with-docker-3e6b1f1cafa8?source=rss-1282c85b5cbc------2)
 - [Deploy Self-Hosted IT-Tools With Docker To Optimize Workflow](https://medium.com/geekculture/deploy-self-hosted-it-tools-with-docker-to-optimize-workflow-375aa222ea3c?source=rss-1282c85b5cbc------2)
 - [12 Essential JavaScript Functions Every Web Developer Must Know](https://javascript.plainenglish.io/12-essential-javascript-functions-every-web-developer-must-know-a4159111588f?source=rss-1282c85b5cbc------2)
 - [How To Deploy GitLab With Docker In 5 Seconds Or Less](https://towardsdatascience.com/how-to-deploy-gitlab-with-docker-in-5-seconds-or-less-e1f9e95c0b76?source=rss-1282c85b5cbc------2)
-- [Advanced JavaScript Functions to Improve Code Quality](https://towardsdatascience.com/advanced-javascript-functions-to-improve-code-quality-2663781ea382?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
