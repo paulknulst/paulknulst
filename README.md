@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Stop Overthinking And Become Productive](https://www.paulsblog.dev/stop-overthinking-and-become-productive/)
 - [Self-Host Kutt With Docker - A Modern URL Shortener](https://www.paulsblog.dev/self-host-kutt-url-shortener-with-docker/)
 - [Deploy Self-Hosted Ghost Blog With Docker](https://www.paulsblog.dev/deploy-self-hosted-ghost-blog-with-docker/)
 - [Supercharge Your Server Infrastructure With Docker Swarm: A Detailed Overview](https://www.paulsblog.dev/supercharge-your-server-infrastructure-with-docker-swarm-a-detailed-overview/)
 - [Learn To Say No Effectively - Set Boundaries Without Hurting People](https://www.paulsblog.dev/learn-to-say-no-effectively/)
-- [Eat The Frog: What Sounds Gross Is My Fastest Way To Be More Productive](https://www.paulsblog.dev/eat-the-frog-productivity-method/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
