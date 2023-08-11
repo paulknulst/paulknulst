@@ -15,11 +15,11 @@
 
 ## 📝 Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Server Infrastructure With Docker Swarm: A Detailed Overview](https://levelup.gitconnected.com/supercharge-your-server-infrastructure-with-docker-swarm-a-detailed-overview-aa0d9074d9fd?source=rss-1282c85b5cbc------2)
 - [Eat The Frog: What Sounds Gross Is My Fastest Way To Be More Productive](https://medium.com/illumination/eat-the-frog-what-sounds-gross-is-my-fastest-way-to-be-more-productive-fdc35c35f9ea?source=rss-1282c85b5cbc------2)
 - [Manipulate Strings With Regular Expressions In JavaScript](https://javascript.plainenglish.io/manipulate-strings-with-regular-expressions-in-javascript-5a26c355add?source=rss-1282c85b5cbc------2)
 - [Deploy Self-Hosted Twitter-Like Notes App With Docker](https://levelup.gitconnected.com/deploy-self-hosted-twitter-like-notes-app-with-docker-3e6b1f1cafa8?source=rss-1282c85b5cbc------2)
 - [Deploy Self-Hosted IT Tools With Docker To Optimize Workflow](https://medium.com/geekculture/deploy-self-hosted-it-tools-with-docker-to-optimize-workflow-375aa222ea3c?source=rss-1282c85b5cbc------2)
-- [12 Essential JavaScript Functions Every Web Developer Must Know](https://javascript.plainenglish.io/12-essential-javascript-functions-every-web-developer-must-know-a4159111588f?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Skills
