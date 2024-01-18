@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [How To Boost Your Career With Games](https://www.paulsblog.dev/how-to-boost-your-career-with-games/)
 - [How To Learn From Mistakes: Navigating The Complex Journey To Personal Growth](https://www.paulsblog.dev/how-to-learn-from-mistakes-navigating-the-complex-journey-to-personal-growth/)
 - [How Proper Tidying Up Makes You More Productive](https://www.paulsblog.dev/how-proper-tidying-up-makes-you-more-productive/)
 - [Stop Overthinking And Become Productive](https://www.paulsblog.dev/stop-overthinking-and-become-productive/)
 - [Self-Host Kutt With Docker - A Modern URL Shortener](https://www.paulsblog.dev/self-host-kutt-url-shortener-with-docker/)
-- [Deploy Self-Hosted Ghost Blog With Docker](https://www.paulsblog.dev/deploy-self-hosted-ghost-blog-with-docker/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
