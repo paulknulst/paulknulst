@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [Self-Host Umami Analytics With Docker Compose](https://www.paulsblog.dev/self-host-umami-analytics-with-docker-compose/)
 - [Gratitude and Exciting Updates for the New Year 2024 🚀](https://www.paulsblog.dev/gratitude-and-exciting-updates-for-the-new-year/)
 - [How To Boost Your Career With Games](https://www.paulsblog.dev/how-to-boost-your-career-with-games/)
 - [How To Learn From Mistakes: Navigating The Complex Journey To Personal Growth](https://www.paulsblog.dev/how-to-learn-from-mistakes-navigating-the-complex-journey-to-personal-growth/)
 - [How Proper Tidying Up Makes You More Productive](https://www.paulsblog.dev/how-proper-tidying-up-makes-you-more-productive/)
-- [Stop Overthinking And Become Productive](https://www.paulsblog.dev/stop-overthinking-and-become-productive/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
