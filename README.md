@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Self-Host Kutt With Docker — A Modern URL Shortener](https://paulknulst.medium.com/self-host-kutt-with-docker-a-modern-url-shortener-ebafb45e83a4?source=rss-1282c85b5cbc------2)
 - [How To Deploy Self-Hosted Ghost Blog With Docker](https://levelup.gitconnected.com/how-to-deploy-self-hosted-ghost-blog-with-docker-5f496ecad9c2?source=rss-1282c85b5cbc------2)
-- [Learn To Say No Effectively — Set Boundaries Without Hurting People](https://medium.com/life-tips/learn-to-say-no-effectively-set-boundaries-without-hurting-people-92c7ec9d844b?source=rss-1282c85b5cbc------2)
+- [Learn To Say No Effectively — Set Boundaries Without Hurting People](https://byrslf.co/learn-to-say-no-effectively-set-boundaries-without-hurting-people-92c7ec9d844b?source=rss-1282c85b5cbc------2)
 - [Supercharge Your Server Infrastructure With Docker Swarm: A Detailed Overview](https://levelup.gitconnected.com/supercharge-your-server-infrastructure-with-docker-swarm-a-detailed-overview-aa0d9074d9fd?source=rss-1282c85b5cbc------2)
 - [Eat The Frog: What Sounds Gross Is My Fastest Way To Be More Productive](https://medium.com/illumination/eat-the-frog-what-sounds-gross-is-my-fastest-way-to-be-more-productive-fdc35c35f9ea?source=rss-1282c85b5cbc------2)
 <!-- BLOG-POST-LIST:END -->
