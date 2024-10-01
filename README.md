@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [AppImage On Linux Explained: How to Run Apps Without Installing](https://www.paulsblog.dev/appimage-on-linux-explained-how-to-run-apps-without-installing/)
 - [How To Setup Docker Registry In Kubernetes Using Traefik v2](https://www.paulsblog.dev/how-to-setup-docker-registry-in-kubernetes-using-traefik-v2/)
 - [How To Deploy Portainer in Kubernetes With Traefik Ingress Controller](https://www.paulsblog.dev/how-to-deploy-portainer-in-kubernetes-with-traefik-ingress-controller/)
 - [How To Create An SSH-Enabled User With Public Key Authentication On Linux](https://www.paulsblog.dev/how-to-create-an-ssh-enabled-user-with-public-key-authentication-on-linux/)
 - [How To Unhide Titlebars on Maximised Windows in KDE Plasma 6](https://www.paulsblog.dev/how-to-unhide-titlebars-on-maximised-windows-in-kde-plasma-6/)
-- [How To Boost Linux Server Performance By Enabling Swap](https://www.paulsblog.dev/how-to-boost-linux-server-performance-by-enabling-swap/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
