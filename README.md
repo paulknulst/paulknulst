@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [How To Move Docker&#39;s Data Directory To Free Up Disk Space](https://www.paulsblog.dev/how-to-move-the-default-var-lib-docker-to-another-directory-for-docker-on-linux/)
 - [The Dark Side Of Software: Anti-Patterns &lpar;and How To Fix Them&rpar;](https://www.paulsblog.dev/the-dark-side-of-software-anti-patterns-and-how-to-fix-them/)
 - [AppImage On Linux Explained: How to Run Apps Without Installing](https://www.paulsblog.dev/appimage-on-linux-explained-how-to-run-apps-without-installing/)
 - [How To Setup Docker Registry In Kubernetes Using Traefik v2](https://www.paulsblog.dev/how-to-setup-docker-registry-in-kubernetes-using-traefik-v2/)
 - [How To Deploy Portainer in Kubernetes With Traefik Ingress Controller](https://www.paulsblog.dev/how-to-deploy-portainer-in-kubernetes-with-traefik-ingress-controller/)
-- [How To Create An SSH-Enabled User With Public Key Authentication On Linux](https://www.paulsblog.dev/how-to-create-an-ssh-enabled-user-with-public-key-authentication-on-linux/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
