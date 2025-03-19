@@ -6,11 +6,11 @@
 
 ## 📝 Latest Blog Posts on pauls dev blog - www.paulsblog.dev
 <!-- KNULST-POST-LIST:START -->
+- [How To Secure Your Docker Containers: The Most Essential Steps](https://www.paulsblog.dev/how-to-secure-your-docker-containers-the-most-essential-steps/)
 - [5+2 Phenomenal FREE Platforms To Learn Coding](https://www.paulsblog.dev/5-2-phenomenal-free-platforms-to-learn-coding/)
 - [How To Self-Host FreshRSS Reader Using Docker](https://www.paulsblog.dev/how-to-self-host-freshrss-reader-using-docker/)
 - [How To Move Docker&#39;s Data Directory To Free Up Disk Space](https://www.paulsblog.dev/how-to-move-the-default-var-lib-docker-to-another-directory-for-docker-on-linux/)
 - [The Dark Side Of Software: Anti-Patterns &lpar;and How To Fix Them&rpar;](https://www.paulsblog.dev/the-dark-side-of-software-anti-patterns-and-how-to-fix-them/)
-- [AppImage On Linux Explained: How to Run Apps Without Installing](https://www.paulsblog.dev/appimage-on-linux-explained-how-to-run-apps-without-installing/)
 <!-- KNULST-POST-LIST:END -->
 
 ## 📝 Latest Blog Posts on Medium
